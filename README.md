@@ -2,7 +2,7 @@
 
 Welcome to the ABC News Technical Test, we hope that you're able to navigate the tasks but if you do get stuck or need clarification, you can reach out to the Tech Lead who gave you the test. They'd be more than happy to help clarify any steps.
 
-**Please fork this repo and create a new private repo.**
+**Don't fork this repo, instead export a .zip file and email it to the person who gave you this test.**
 
 ## The Challenge
 
